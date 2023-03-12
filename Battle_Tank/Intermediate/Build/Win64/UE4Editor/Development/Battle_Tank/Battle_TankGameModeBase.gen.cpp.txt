@@ -1,0 +1,9 @@
+C:\Users\santa\OneDrive\Documents\GitHub\Battle_Tank\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Development\Battle_Tank\Definitions.Battle_Tank.h
+D:\Epic Games\UE_4.27Chaos\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Epic Games\UE_4.27Chaos\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\santa\OneDrive\Documents\GitHub\Battle_Tank\Battle_Tank\Source\Battle_Tank/Battle_TankGameModeBase.h
+D:\Epic Games\UE_4.27Chaos\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\Epic Games\UE_4.27Chaos\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\Epic Games\UE_4.27Chaos\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\Epic Games\UE_4.27Chaos\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\santa\OneDrive\Documents\GitHub\Battle_Tank\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Inc\Battle_Tank\Battle_TankGameModeBase.generated.h

@@ -1,0 +1,2 @@
+C:\Users\santa\OneDrive\Documents\GitHub\Battle_Tank\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Development\Battle_Tank\Definitions.Battle_Tank.h
+C:\Users\santa\OneDrive\Documents\GitHub\Battle_Tank\Battle_Tank\Source\Battle_Tank\Battle_Tank.h
