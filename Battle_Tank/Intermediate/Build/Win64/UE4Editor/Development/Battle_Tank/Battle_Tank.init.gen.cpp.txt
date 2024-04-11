@@ -1,3 +1,0 @@
-C:\Users\santa\OneDrive\Documents\GitHub\Battle_Tank\Battle_Tank\Intermediate\Build\Win64\UE4Editor\Development\Battle_Tank\Definitions.Battle_Tank.h
-D:\Epic Games\UE_4.27Chaos\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-D:\Epic Games\UE_4.27Chaos\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
